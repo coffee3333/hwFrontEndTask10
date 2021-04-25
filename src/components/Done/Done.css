@@ -1,0 +1,30 @@
+.done-wrapper{
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    flex-flow: column;
+}
+
+.done-title{
+    margin-bottom: 20px;
+}
+
+.main-done-img{
+    width: 250px;
+    height: 250px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.main-register-again{
+    background: #ec5990;
+    color: white;
+    text-transform: uppercase;
+    border: none;
+    margin-top: 20px;
+    padding: 20px;
+    font-size: 16px;
+    font-weight: 100;
+    letter-spacing: 10px;
+    border-radius: 10px;
+}
